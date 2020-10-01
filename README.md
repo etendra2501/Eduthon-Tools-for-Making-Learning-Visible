@@ -1,4 +1,6 @@
- ## **VirtualTree**
+ # **VirtualTree** <br>
+
+ <img src="./assets/logo.jpg" width="30%" height="20%"/> <br>
 
 *A webapp aimed for students to share their work through portfolios with peers, in an easy and fun way.*
 
